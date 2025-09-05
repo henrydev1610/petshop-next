@@ -51,7 +51,7 @@ export default function About() {
               </li>
             </ul>
             <div className="flex gap-2">
-              <Botao texto="contate via Whatsapp" />
+              <Botao texto="Contate via Whatsapp" />
               <a
                 href="#"
                 className="bg-[#e84c3d] text-white flex items-center justify-center w-fit gap-2 px-4 py-2 rounded-md"
